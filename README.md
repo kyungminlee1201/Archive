@@ -1,7 +1,7 @@
 # Archive
 
 ### 1. ACCT 1101: Introduction to Financial Accounting Notes  
-### 2. ECON 1201: Introductory Microeconomics Notes  
+### 2. ECON 1201: Introductory Microeconomics Examples & Solutions  
 ### 3. FINA 1310: Corporate Finance Notes <br /> (Essentials of Corporate Finance)  
 ### 4. IIMT 2601: Management Information Systems Notes <br /> (Management Information Systems: Managing the Digital Firm)  
 ### 5. MGMT 2401: Principles of Management Notes <br /> (Management, Fourteenth Edition)  
