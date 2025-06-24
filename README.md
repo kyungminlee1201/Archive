@@ -1,5 +1,4 @@
 # Notes_Archive
-# Computer Science &amp; Business Notes
 # 1. ACCT 1101: Introduction to Financial Accounting Notes
 # 2. ECON 1201: Introductory Microeconomics Notes
 # 3. FINA 1310: Corporate Finance Notes <br /> (Essentials of Corporate Finance)
