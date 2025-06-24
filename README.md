@@ -2,7 +2,7 @@
 # Computer Science &amp; Business Notes
 # 1. ACCT 1101: Introduction to Financial Accounting Notes
 # 2. ECON 1201: Introductory Microeconomics Notes
-# 3. FINA 1310: Corporate Finance Notes (Essentials of Corporate Finance)
+# 3. FINA 1310: Corporate Finance Notes \n (Essentials of Corporate Finance)
 # 4. IIMT 2601: Management Information Systems Notes (Management Information Systems: Managing the Digital Firm)
 # 5. MGMT 2401: Principles of Management Notes (Management, Fourteenth Edition)
 # 6. IIMT 3603: Project Management Notes (Project Management: A Strategic Managerial Approach, Tenth Edition)
