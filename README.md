@@ -1,4 +1,4 @@
-# Notes Archive
+# Archive
 
 ### 1. ACCT 1101: Introduction to Financial Accounting Notes  
 ### 2. ECON 1201: Introductory Microeconomics Notes  
